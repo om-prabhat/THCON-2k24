@@ -27,7 +27,7 @@ KREEGTaOPNRDIcbFGYaFeMLTLcaHOMbTGBWWKXbJNZXGSdDd
 ### Reversing the process to obtain flag
 ![process](base64-1.jpeg)
 - Instead of word it will be decimal in 1st step.
-- message.txt contains 48 letters and i divided them into group of 8 because those 8 letters will give 40 bits (8*5 bits) and from those 40 bits 5 letters will be formed (5*8 bits).
+- message.txt contains 48 letters and i divided them into group of 8 because those 8 letters will give 40 bits (8×5 bits) and from those 40 bits 5 letters will be formed (5×8 bits).
 
 ### Solution
 ![step-1](base64-2.jpeg)
