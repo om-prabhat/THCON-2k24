@@ -2,7 +2,7 @@
 - From 06-04-24 1:30PM IST to 07-04-24 1:30PM IST THCON 2k24 was held
 
 - I also participated in this ctf.
-![thcon](https://2-quantum.github.io/THCON-2k24/thcon.png)
+![thcon](https://om-prabhat.github.io/THCON-2k24/thcon.png)
 - Here i am sharing the writeups of ctfs which are solved by me.
 
 ## Writeup
